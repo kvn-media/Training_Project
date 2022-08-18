@@ -1,0 +1,70 @@
+﻿  FixedSizedInterger.cpp
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\FixedSizedInterger.cpp(19,16): error C2371: 'myChar': redefinition; different basic types
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\FixedSizedInterger.cpp(13): message : see declaration of 'myChar'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\FixedSizedInterger.cpp(20,17): error C2371: 'myShort': redefinition; different basic types
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\FixedSizedInterger.cpp(14): message : see declaration of 'myShort'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\FixedSizedInterger.cpp(21,15): error C2371: 'myInt': redefinition; different basic types
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\FixedSizedInterger.cpp(15): message : see declaration of 'myInt'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\FixedSizedInterger.cpp(22,16): error C2371: 'myLong': redefinition; different basic types
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\FixedSizedInterger.cpp(16): message : see declaration of 'myLong'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\FixedSizedInterger.cpp(23,21): error C2371: 'myL2': redefinition; different basic types
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\FixedSizedInterger.cpp(17): message : see declaration of 'myL2'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\FixedSizedInterger.cpp(28,8): error C2086: 'short myShort': redefinition
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\FixedSizedInterger.cpp(14): message : see declaration of 'myShort'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\FixedSizedInterger.cpp(29,7): error C2086: 'long myLong': redefinition
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\FixedSizedInterger.cpp(16): message : see declaration of 'myLong'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\FixedSizedInterger.cpp(58,6): error C2374: 'i': redefinition; multiple initialization
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\FixedSizedInterger.cpp(47): message : see declaration of 'i'
+  MyApp.cpp
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\MyApp.cpp(40,6): error C2374: 'myInt': redefinition; multiple initialization
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\MyApp.cpp(27): message : see declaration of 'myInt'
+  Operator.cpp
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(8,3): error C2374: 'x': redefinition; multiple initialization
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(7): message : see declaration of 'x'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(9,3): error C2374: 'x': redefinition; multiple initialization
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(7): message : see declaration of 'x'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(10,3): error C2374: 'x': redefinition; multiple initialization
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(7): message : see declaration of 'x'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(11,3): error C2374: 'x': redefinition; multiple initialization
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(7): message : see declaration of 'x'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(16,6): error C2374: 'x': redefinition; multiple initialization
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(7): message : see declaration of 'x'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(32,6): error C2086: 'int x': redefinition
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(7): message : see declaration of 'x'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(33,6): error C2374: 'x': redefinition; multiple initialization
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(7): message : see declaration of 'x'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(33,13): error C2086: 'int y': redefinition
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(32): message : see declaration of 'y'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(34,6): error C2374: 'x': redefinition; multiple initialization
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(7): message : see declaration of 'x'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(34,13): error C2086: 'int y': redefinition
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(32): message : see declaration of 'y'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(38,4): error C2374: 'b': redefinition; multiple initialization
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(37): message : see declaration of 'b'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(39,4): error C2374: 'b': redefinition; multiple initialization
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(37): message : see declaration of 'b'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(40,4): error C2374: 'b': redefinition; multiple initialization
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(37): message : see declaration of 'b'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(41,4): error C2374: 'b': redefinition; multiple initialization
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(37): message : see declaration of 'b'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(42,4): error C2374: 'b': redefinition; multiple initialization
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(37): message : see declaration of 'b'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(45,7): error C2374: 'b': redefinition; multiple initialization
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(37): message : see declaration of 'b'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(46,7): error C2374: 'b': redefinition; multiple initialization
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(37): message : see declaration of 'b'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(47,7): error C2374: 'b': redefinition; multiple initialization
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(37): message : see declaration of 'b'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(50,6): error C2374: 'x': redefinition; multiple initialization
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(7): message : see declaration of 'x'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(51,6): error C2374: 'x': redefinition; multiple initialization
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(7): message : see declaration of 'x'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(52,6): error C2374: 'x': redefinition; multiple initialization
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(7): message : see declaration of 'x'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(53,6): error C2374: 'x': redefinition; multiple initialization
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(7): message : see declaration of 'x'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(54,6): error C2374: 'x': redefinition; multiple initialization
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(7): message : see declaration of 'x'
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(55,6): error C2374: 'x': redefinition; multiple initialization
+E:\Enigma-Course\Playground\C++\Training_Project\Training_Project\Operator.cpp(7): message : see declaration of 'x'
+  Generating Code...
